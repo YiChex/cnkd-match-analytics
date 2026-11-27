@@ -1,0 +1,1 @@
+{"apiVersion":2,"internalName":"cnkd.match.analytics","name":"CNKD Postgame Analytics","main":"net.cnkd.analytics.CollectorPlugin","author":"CNKD","version":"0.1.0","supportedVersions":"[1.3.0,2.0.0)","description":"Durable private postgame statistics collection","capabilities":["read-statistics","console-commands","player-commands"]}

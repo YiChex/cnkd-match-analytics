@@ -1,0 +1,1 @@
+6ecb6a1e9c2dce3229e18479b922232f783e6ecaecf2b5533f2b45f960ce6ba3  server-plugin-api-1.3.0.jar
